@@ -1,0 +1,15 @@
+package main
+
+const (
+	// BINANCE
+	BINANCE_API_KEY    = ""
+	BINANCE_SECRET_KEY = ""
+	MINIMUM_BALANCE    = 8
+
+	// GOOGLE SHEETS
+	SPREADSHEET_ID = ""
+
+	// TELEGRAM
+	BOT_TOKEN        = ""
+	RECEIVER_USER_ID = 216993313
+)

@@ -1,0 +1,11 @@
+
+		// exs := map[string]bool{
+		// 	"LUNCUSDT": true,
+		// 	"ETHUSDT":  true,
+		// 	"BTCUSDT":  true,
+		// 	"XRPUSDT":  true,
+		// 	"BOMEUSDT": true,
+		// }
+		// if !exs[symbol.Symbol] {
+		// 	continue
+		// }
